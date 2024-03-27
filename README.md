@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coder1A
-- 👀 I’m interested in web developing and Android developing
-- 🌱 I’m currently learning Java script
+- 👀 I’m interested in Android developing
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me coder1.com@gmail.com
 
